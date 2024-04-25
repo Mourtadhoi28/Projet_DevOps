@@ -37,6 +37,9 @@ body {
   nav ul li:hover ul {
     display: block;
   }
+   img {
+    width: 90%;
+   }
   footer {
     background-color: #0a5b77;
     color: white;
